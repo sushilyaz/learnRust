@@ -1,1 +1,1 @@
-ебать мой рот учу раст
+learn rust doc.rust-lang.ru
